@@ -7,11 +7,8 @@ Programming challenge:
 Napisz prostą aplikację okienkową, czy konsolową, która umożliwi wpisanie użytkownikowi swojego
 
 Imienia [tekst]
-
 Nazwiska [tekst]
-
 Adresu zamieszkania [tekst]
-
 Numeru telefonu [tekst]
  
  
